@@ -1,5 +1,4 @@
 import {getAllMovies} from "../data/movies.js";
-import { getImgUrl } from "../utils/cine-utility.js";
 import MovieCard from "./MovieCard.jsx";
 
 export default function MovieList() {
